@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sreerag.babu\\source\\repos\\InheritenceDemo\\InheritenceDemo.csproj",
-      "projectName": "InheritenceDemo",
-      "projectPath": "C:\\Users\\sreerag.babu\\source\\repos\\InheritenceDemo\\InheritenceDemo.csproj",
+      "projectUniqueName": "C:\\Users\\sreerag.babu\\source\\repos\\MultiLevelDemo\\MultiLevelDemo.csproj",
+      "projectName": "MultiLevelDemo",
+      "projectPath": "C:\\Users\\sreerag.babu\\source\\repos\\MultiLevelDemo\\MultiLevelDemo.csproj",
       "packagesPath": "C:\\Users\\sreerag.babu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sreerag.babu\\source\\repos\\InheritenceDemo\\obj\\",
+      "outputPath": "C:\\Users\\sreerag.babu\\source\\repos\\MultiLevelDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sreerag.babu\\AppData\\Roaming\\NuGet\\NuGet.Config",
